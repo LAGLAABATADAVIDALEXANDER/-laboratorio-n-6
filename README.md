@@ -46,7 +46,38 @@ El teorema de maxima transferencia de potencia establece que la potencia maxima 
 ![image](https://user-images.githubusercontent.com/117695777/212234897-197c0551-db22-4ead-bd15-aa3caa2c05a6.png)
 
 ### PROCEDIMIENTO
+ Armamos el circuito del grafico en el simulador
+ 
+ ![image](https://user-images.githubusercontent.com/116814386/212314860-32a154fb-9444-4d50-a5af-8f0671c28681.png)
 
+![image](https://user-images.githubusercontent.com/116814386/212314927-ab79e496-3aff-4162-bf62-947fdab0b918.png)
+
+realizamos edicciones de coltaje corriente y potencia y registramos los valores
+
+![image](https://user-images.githubusercontent.com/116814386/212315045-d2c7fc55-86dd-40a8-bfdb-0ee8abae710c.png)
+
+Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 
+
+![image](https://user-images.githubusercontent.com/116814386/212315147-1ad703b4-105f-40e7-8c19-16b41b7db0d0.png)
+
+Anote los resultados medidos.
+
+![image](https://user-images.githubusercontent.com/116814386/212315232-e60cb2a8-2575-4bd3-95e7-8446112587e9.png)
+
+![image](https://user-images.githubusercontent.com/116814386/212315282-275412b0-24ab-435f-a9d8-a9c8948b32ec.png)
+
+
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+El teorema si se cumple ya que podemos obserbar tonto experimentalmente ,teoricamente y simulando que l alejar la resitencia al valor dela r1 la potencia diminuye 
+
+ ¿Cuál fue la potencia máxima en RL? 8m Watts
+ 
+¿Para qué valor de RL se obtiene la MTP? 1000 Ω
+
+ Grafique la curva Potencia vs RL y comente.
+
+![image](https://user-images.githubusercontent.com/116814386/212316749-2a2d9257-90ff-4fc2-b6be-fa65a8d1870e.png)
 
 
 ### Conclusiones
