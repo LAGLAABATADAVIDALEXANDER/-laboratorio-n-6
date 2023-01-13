@@ -52,8 +52,11 @@ El teorema de maxima transferencia de potencia establece que la potencia maxima 
 ### Conclusiones
 
 •	La máxima transferencia de potencia será cuando la resistencia de carga sea igual a la resistencia de Thévenin del circuito.
+
 •	En la práctica se obtuvo diferentes valores de voltaje y corriente mediante los cuales pudimos calcular la potencia en la resistencia RL
+
 •	Se comprendió y se entendió el Teorema de Máxima Transferencia de Potencia, mediante el laboratorio realizado.
+
 •	Finalmente, después de analizar cómo funciona el Teorema de Máxima Transferencia de Potencia se pudo tener una mayor eficacia y experticia para desarrollar el circuito, además, se pudo optimizar el aprendizaje y aumentar el conocimiento.
 
 Video 
